@@ -1,1 +1,1 @@
-Real time weather update with weather api
+Real time weather update with weather API
